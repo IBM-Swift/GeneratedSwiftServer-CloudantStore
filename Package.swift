@@ -21,6 +21,6 @@ let package = Package(
     dependencies: [
         .Package(url: "https://github.com/IBM-Swift/Kitura-net.git", majorVersion: 1, minor: 1),
         .Package(url: "https://github.com/IBM-Swift/Kitura-CouchDB.git", majorVersion: 1, minor: 1),
-        .Package(url: "https://github.com/IBM-Swift/GeneratedSwiftServer.git", majorVersion: 0, minor: 3)
+        .Package(url: "https://github.com/IBM-Swift/GeneratedSwiftServer.git", majorVersion: 0, minor: 4)
     ]
 )
